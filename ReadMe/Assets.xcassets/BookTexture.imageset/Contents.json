@@ -1,10 +1,6 @@
 {
-  "colors" : [
+  "images" : [
     {
-      "color" : {
-        "platform" : "universal",
-        "reference" : "systemPinkColor"
-      },
       "idiom" : "universal"
     },
     {
@@ -14,10 +10,7 @@
           "value" : "light"
         }
       ],
-      "color" : {
-        "platform" : "universal",
-        "reference" : "systemOrangeColor"
-      },
+      "filename" : "LightTexture.jpg",
       "idiom" : "universal"
     },
     {
@@ -27,10 +20,7 @@
           "value" : "dark"
         }
       ],
-      "color" : {
-        "platform" : "universal",
-        "reference" : "systemPurpleColor"
-      },
+      "filename" : "DarkTextureBlack.jpg",
       "idiom" : "universal"
     }
   ],
